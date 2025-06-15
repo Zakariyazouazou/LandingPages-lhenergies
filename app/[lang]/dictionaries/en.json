@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "home": "Home",
+    "portfolio": "Portfolio",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Landing Pages I Built for LH Energies",
+    "subtitle": "A collection of diverse and specialized designs for energy renovation",
+    "cta": "View My Portfolio",
+    "learn_more": "Learn More"
+  },
+  "portfolio": {
+    "title": "Landing Pages Gallery",
+    "subtitle": "Diverse and specialized designs for each renewable energy service"
+  },
+  "landing_designs": {
+    "modern_solar": {
+      "title": "LH Energis – Energy Renovation Experts",
+      "description": "Optimized landing page to capture traffic and conversions for complete corporate energy renovation services.",
+      "style": "Modern Design"
+    },
+    "premium_heating": {
+      "title": "LH Energis – Energy Renovation Experts",
+      "description": "Optimized landing page to capture traffic and conversions for complete corporate energy renovation services.",
+      "style": "Premium Design"
+    },
+    "minimalist_insulation": {
+      "title": "LH Energis – Energy Renovation Experts",
+      "description": "Optimized landing page to capture traffic and conversions for complete corporate energy renovation services.",
+      "style": "Minimalist Design"
+    },
+    "tech_smart": {
+      "title": "LH Energis – Energy Renovation Experts",
+      "description": "Optimized landing page to capture traffic and conversions for complete corporate energy renovation services.",
+      "style": "Tech Design"
+    },
+    "corporate_renovation": {
+      "title": "LH Energis – Energy Renovation Experts",
+      "description": "Optimized landing page to capture traffic and conversions for complete corporate energy renovation services.",
+      "style": "Corporate Design"
+    },
+    "friendly_consultation": {
+      "title": "LH Energis – Energy Renovation Experts",
+      "description": "Optimized landing page to capture traffic and conversions for complete corporate energy renovation services.",
+      "style": "Friendly Design"
+    },
+    "professional_financing": {
+      "title": "LH Energis – Energy Renovation Experts",
+      "description": "Optimized landing page to capture traffic and conversions for complete corporate energy renovation services.",
+      "style": "Professional Design"
+    }
+  },
+  "developer": {
+    "title": "Frontend Developer",
+    "subtitle": "Specialized in developing high-conversion landing pages"
+  },
+  "footer": {
+    "developer": "Developer Portfolio",
+    "rights": "All rights reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions"
+  }
+}

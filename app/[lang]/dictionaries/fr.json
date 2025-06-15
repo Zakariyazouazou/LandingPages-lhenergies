@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "portfolio": "Portfolio",
+    "about": "À propos",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Pages de destination que j'ai créées pour LH Energies",
+    "subtitle": "Une collection de designs variés et spécialisés pour la rénovation énergétique",
+    "cta": "Voir mon portfolio",
+    "learn_more": "En savoir plus"
+  },
+  "portfolio": {
+    "title": "Galerie des Pages de Destination",
+    "subtitle": "Designs variés et spécialisés pour chaque service d'énergie renouvelable"
+  },
+ "landing_designs": {
+  "modern_solar": {
+    "title": "LH Energis – Experts en rénovation énergétique",
+    "description": "Page d’atterrissage optimisée pour générer du trafic et des conversions en rénovation énergétique pour entreprises.",
+    "style": "Design Moderne"
+  },
+  "premium_heating": {
+    "title": "LH Energis – Experts en rénovation énergétique",
+    "description": "Page d’atterrissage optimisée pour générer du trafic et des conversions en rénovation énergétique pour entreprises.",
+    "style": "Design Premium"
+  },
+  "minimalist_insulation": {
+    "title": "LH Energis – Experts en rénovation énergétique",
+    "description": "Page d’atterrissage optimisée pour générer du trafic et des conversions en rénovation énergétique pour entreprises.",
+    "style": "Design Minimaliste"
+  },
+  "tech_smart": {
+    "title": "LH Energis – Experts en rénovation énergétique",
+    "description": "Page d’atterrissage optimisée pour générer du trafic et des conversions en rénovation énergétique pour entreprises.",
+    "style": "Design Technologique"
+  },
+  "corporate_renovation": {
+    "title": "LH Energis – Experts en rénovation énergétique",
+    "description": "Page d’atterrissage optimisée pour générer du trafic et des conversions en rénovation énergétique pour entreprises.",
+    "style": "Design Corporate"
+  },
+  "friendly_consultation": {
+    "title": "LH Energis – Experts en rénovation énergétique",
+    "description": "Page d’atterrissage optimisée pour générer du trafic et des conversions en rénovation énergétique pour entreprises.",
+    "style": "Design Convivial"
+  },
+  "professional_financing": {
+    "title": "LH Energis – Experts en rénovation énergétique",
+    "description": "Page d’atterrissage optimisée pour générer du trafic et des conversions en rénovation énergétique pour entreprises.",
+    "style": "Design Professionnel"
+  }
+} , 
+  "developer": {
+    "title": "Développeur Frontend",
+    "subtitle": "Spécialisé dans le développement de pages de destination à haute conversion"
+  },
+  "footer": {
+    "developer": "Portfolio Développeur",
+    "rights": "Tous droits réservés",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions générales"
+  }
+}
